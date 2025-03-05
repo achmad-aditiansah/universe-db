@@ -37,3 +37,13 @@ git status
 git add ..
 git add ..
 git add .
+git status
+git commit -m "first commit"
+git push
+git init
+git remote add origin https://github.com/achmad-aditiansah/universe-db.git
+git remote -v
+git remote set-url origin https://github.com/achmad-aditiansah/universe-db.git
+git init
+git status
+git add .
